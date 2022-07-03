@@ -34,7 +34,7 @@ const url="https://us8.api.mailchimp.com/3.0/lists/e579af49b8"
 
 const options={
     method:"POST",
-    auth:"avinav:e3613e43b1d333b5957894405075cdd6-us8"
+    auth:"avinav:7da731db47137b5b54097a4ec54ea396-us8"
     
 }
 
